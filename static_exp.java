@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 class static_demo{
     static int a = 20;
