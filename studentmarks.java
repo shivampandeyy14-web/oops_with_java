@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class StudentMarks {
+public class studentmarks {
         public static void addMarks(List<Integer> marks, int mark) {
         marks.add(mark);
     }
